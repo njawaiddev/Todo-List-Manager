@@ -17,11 +17,6 @@ A modern, cross-platform Todo List application built with Python and Tkinter. Fe
 
 ## Installation
 
-### Pre-built Binaries
-
-Download the latest release for your platform:
-- Windows: `Todo List Manager.exe`
-- macOS: `Todo List Manager.dmg`
 
 ### Building from Source
 
