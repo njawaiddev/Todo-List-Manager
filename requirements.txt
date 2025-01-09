@@ -1,0 +1,3 @@
+json5>=0.9.14
+pyinstaller>=6.3.0
+tkcalendar>=1.6.1 
